@@ -10,11 +10,11 @@ collections:
     editor:
       preview: false
     files:
-      - label: "Profile"
+      - label: "SN&PT"
         name: "profile"
         file: "_data/team.yaml"
         fields:
-          - label: Profile
+          - label: SN&PT
             name: profile
             widget: list
             collapsed: true
@@ -75,7 +75,7 @@ collections:
         file: "_data/ptiii.yaml"
         fields:
           - label: Profile
-            name: profileptii
+            name: profileptiii
             widget: list
             collapsed: true
             fields:
