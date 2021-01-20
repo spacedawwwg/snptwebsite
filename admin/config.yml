@@ -95,7 +95,7 @@ collections:
         file: "_data/academia.yaml"
         fields:
           - label: Jogador
-            name: academia
+            name: profileacademia
             widget: list
             collapsed: true
             fields:
