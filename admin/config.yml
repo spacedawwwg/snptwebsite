@@ -14,7 +14,7 @@ collections:
         name: "profile"
         file: "_data/team.yaml"
         fields:
-          - label: SN&PT
+          - label: Jogador
             name: profile
             widget: list
             collapsed: true
@@ -25,16 +25,16 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
-  - label: "PTI"
+  - label: "Portugal I"
     name: "PTI"
     editor:
       preview: false
     files:
-      - label: "ProfilePTI"
+      - label: "Portugal I"
         name: "profilepti"
         file: "_data/pti.yaml"
         fields:
-          - label: Profile
+          - label: Jogador
             name: profilepti
             widget: list
             collapsed: true
@@ -54,7 +54,7 @@ collections:
         name: "profileptii"
         file: "_data/ptii.yaml"
         fields:
-          - label: Profile
+          - label: Jogador
             name: profileptii
             widget: list
             collapsed: true
@@ -86,15 +86,15 @@ collections:
                   widget: "image",
                 }
   - label: "Academia"
-    name: "Academia"
+    name: "academia"
     editor:
       preview: false
     files:
       - label: "Academia"
-        name: "Academia"
+        name: "academia"
         file: "_data/academia.yaml"
         fields:
-          - label: Academia
+          - label: Jogador
             name: academia
             widget: list
             collapsed: true
