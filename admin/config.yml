@@ -65,3 +65,43 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
+  - label: "PTIII"
+    name: "PTIII"
+    editor:
+      preview: false
+    files:
+      - label: "ProfilePTIII"
+        name: "profileptiii"
+        file: "_data/ptiii.yaml"
+        fields:
+          - label: Profile
+            name: profileptii
+            widget: list
+            collapsed: true
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Featured Image",
+                  name: "featuredImage",
+                  widget: "image",
+                }
+  - label: "Academia"
+    name: "Academia"
+    editor:
+      preview: false
+    files:
+      - label: "Academia"
+        name: "Academia"
+        file: "_data/academia.yaml"
+        fields:
+          - label: Academia
+            name: academia
+            widget: list
+            collapsed: true
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Featured Image",
+                  name: "featuredImage",
+                  widget: "image",
+                }
