@@ -1,0 +1,67 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "_site/images/uploads"
+public_folder: "/images/uploads"
+local_backend: true
+collections:
+  - label: "SN&PT"
+    name: "SN&PT"
+    editor:
+      preview: false
+    files:
+      - label: "Profile"
+        name: "profile"
+        file: "_data/team.yaml"
+        fields:
+          - label: Profile
+            name: profile
+            widget: list
+            collapsed: true
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Featured Image",
+                  name: "featuredImage",
+                  widget: "image",
+                }
+  - label: "PTI"
+    name: "PTI"
+    editor:
+      preview: false
+    files:
+      - label: "ProfilePTI"
+        name: "profilepti"
+        file: "_data/pti.yaml"
+        fields:
+          - label: Profile
+            name: profilepti
+            widget: list
+            collapsed: true
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Featured Image",
+                  name: "featuredImage",
+                  widget: "image",
+                }
+  - label: "PTII"
+    name: "PTII"
+    editor:
+      preview: false
+    files:
+      - label: "ProfilePTII"
+        name: "profileptii"
+        file: "_data/ptii.yaml"
+        fields:
+          - label: Profile
+            name: profileptii
+            widget: list
+            collapsed: true
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Featured Image",
+                  name: "featuredImage",
+                  widget: "image",
+                }

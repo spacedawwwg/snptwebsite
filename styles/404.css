@@ -1,0 +1,21 @@
+.align-center {
+  text-align: center;
+}
+
+img {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+}
+
+@media (max-width: 800px) {
+  img {
+    padding-bottom: 4rem;
+  }
+
+  .align-center {
+    padding: 0.5rem;
+  }
+}

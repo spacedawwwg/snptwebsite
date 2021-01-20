@@ -1,0 +1,60 @@
+.fixedNav-mobile {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    background-color: var(--navbar-background);
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
+    left: 0;
+    bottom: 0;
+    display: none;
+}
+.navContainer-mobile {
+    background-color: var(--navbar-background);
+    font-weight: bold;
+}
+.navbar-mobile {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    height: 3rem;
+    width: 100%;
+}
+.navMenu-mobile ul li {
+    padding: 0;
+    margin: 0.3rem 0 0;
+}
+.navMenu-mobile ul a {
+    padding: 5px;
+    display: block;
+}
+.github-icon-mobile svg {
+    margin: 0.6rem 0.5rem 0.1rem 2rem;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+.facebook-icon-mobile svg {
+    margin: 0.1rem -0.5rem 0 0;
+    width: 45px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+.navMenu-mobile {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    justify-self: end;
+}
+@media (max-width: 800px) {
+    .fixedNav-mobile {
+        display: block;
+        z-index: 3;
+    }
+    .facebook-icon-mobile a,
+    .github-icon-mobile a {
+        margin: -0.5rem 0.1rem 1.4rem -1.5rem;
+    }
+}

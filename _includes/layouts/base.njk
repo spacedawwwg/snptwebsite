@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include "partials/head.njk" %}
+
+    <body>
+
+    {% include "partials/navbar.njk" %}
+
+    <section class="global-content">
+        {{ content | safe }}
+    </section>
+
+    {% include "partials/darkMode.njk" %}
+
+    {% include "partials/footernav.njk" %}
+
+    {% include "partials/footer.njk" %}
+
+    </body>
+</html>

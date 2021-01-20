@@ -1,0 +1,28 @@
+<div id="back-top">
+    <a href="#application" id="back-top__content--desk">
+        <span class="arrow-top">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25.591" height="13.819" viewbox="0 0 7.3 4.45">
+                <path d="M.248 4.119c-.194-.221-.252-.353-.212-.487C.12 3.348 3.47.019 3.672.019c.11 0 .787.618 1.884 1.716 1.48 1.48 1.714 1.75 1.714 1.973 0 .295-.373.714-.636.714-.096 0-.72-.555-1.525-1.355-.75-.745-1.4-1.354-1.444-1.354-.044 0-.689.61-1.433 1.354C1.32 3.981.82 4.422.697 4.422c-.104 0-.298-.131-.449-.303z" fill="#fefefe"/>
+            </svg>
+        </span>
+    </a>
+    <a href="#application" id="back-top__content--mob"></a>
+</div>
+
+    {# Back to top style ================ #}
+    {% set css %}
+    {% include "styles/backtotop.css" %}
+    {% endset %}
+
+    <style>
+        {{css | cssmin | safe}}
+    </style> 
+
+    {# Back to top Js ================ #}
+    {% set js %}
+    {% include "js/backtotop.js" %}
+    {% endset %}
+    
+    <script>
+    {{ js | jsmin | safe }}
+    </script> 

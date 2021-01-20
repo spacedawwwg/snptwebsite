@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+title: Oops! Not Found!
+permalink: 404.html
+---
+
+<main class="align-center">
+
+    <h1>{{ title }}</h1>
+
+    <p>I'm the only one here! Maybe what you want is on the
+        <a href="{{ " /" | url }}">home page?</a>
+        <br/>    
+    </p>
+
+    <img src="/images/potoo-small-.png" alt="Potoo Narciso Ornelas">
+
+</main>
+
+    {# 404 Style ================ #}
+    {% set css %}
+    {% include "styles/404.css" %}
+    {% endset %}
+
+    <style>
+        {{css | cssmin | safe}}
+    </style> 

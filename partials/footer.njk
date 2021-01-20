@@ -1,0 +1,46 @@
+<footer class="footer-pc">
+
+    <p>©&nbsp;
+        <script type="text/javascript">
+            document.write(new Date().getFullYear());
+        </script>&nbsp;HCR2 Clan Portugal criado por <a href="https://ornelasnarciso.com/" target="_blank" rel="noreferrer noopener">Narciso Ornelas</a>
+    </p>
+
+    {# Theme for insert Code ================ #} 
+    {% set css %}
+    {% include "styles/okaidiatheme.css" %}
+    {% endset %}
+  
+    <style>
+        {{css | cssmin | safe}}
+    </style>   
+
+    {# Normalize ================ #}
+    {% set css %}
+    {% include "styles/normalize.css" %}
+    {% endset %}
+
+    <style>
+        {{css | cssmin | safe}}
+    </style>   
+
+    {# Footer ================ #}
+    {% set css %}
+    {% include "styles/footer.css" %}
+    {% endset %}
+
+    <style>
+        {{css | cssmin | safe}}
+    </style>  
+
+    {# Navbar Js ================ #}
+    {% set js %}
+    {% include "js/navbar.js" %}
+    {% endset %}
+    
+    <script>
+    {{ js | jsmin | safe }}
+    </script>    
+
+</footer>
+

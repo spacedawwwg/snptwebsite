@@ -1,0 +1,44 @@
+#back-top {
+    visibility: hidden;
+}
+
+#back-top.active {
+    visibility: visible;
+    position: fixed;
+    right: 1.5rem;
+    bottom: 5rem;
+    opacity: 0.5;
+}
+
+.arrow-top {
+    margin-bottom: 0.2rem;
+}
+
+#back-top__content--desk {
+    text-decoration: none;
+    color: var(--white);
+    background-color: #999;
+    transition: 0.2s;
+    padding: 0.8rem 0.55rem;
+    border-radius: 50%;
+    z-index: 1000;
+    opacity: 1;
+}
+
+#back-top:hover {
+    opacity: 1;
+}
+
+#back-top__content--desk:hover {
+    background-color: var(--blue);
+}
+
+#back-top__content--desk > span {
+    color: var(--white);
+}
+
+@media screen and (max-width: 800px) {
+    #back-top.active {
+        display: none;
+    }
+}

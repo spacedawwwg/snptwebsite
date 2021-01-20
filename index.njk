@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+permalink: /
+alt: Narciso Ornelas
+title: Narciso Ornelas
+image: /images/uploads/facebook-default.jpg
+---
+<!-- Index css ==================== -->
+
+{% set css %}
+{% include "styles/frontpage.css" %}
+{% endset %}
+
+<style>
+    {{css | cssmin | safe}}
+</style>
+
+<!-- CONTENT ==================== -->
+
+<main class="about-container">
+
+    <section class="about-left">
+        <section class="about-left-nested">
+
+            <h1 class="slide-in-left1" style="color: #fff; margin-bottom: 3rem;"> Hill Climb Racing 2 </h1>
+
+            <img class="slide-in-left" src="/images/uploads/bill.png"/>      
+
+            <section class="slide-in-left"><p class="credits" target="_blank" style="margin-top: 2rem;">Imagem <a href="https://fingersoft.com/" target="_blank" style="color: #fff;">Finger Soft</a></p></section> 
+        </section>
+    </section>
+
+    <section class="about-right">
+        <h1>Clan Portugal</h1>
+        <br/>
+        <p>
+            Sejam bem vindos ao site do Clan Portugal!
+        </p>        
+        <br/>
+        <p>
+           Jogas Hill Climb Racing 2 e ainda não tens equipa? Entra no nosso <a href="https://discord.gg/C442ay3" rel="noreferrer noopener" target="_blank">
+                discord
+            </a> e junta-te a nós! Já somos mais de 100 jogadores!
+        </p>        
+        <br/>
+
+        <p>
+            Se já fazes parte do nosso grupo segue os resultados dos nossos jogos nos separadores do nosso site.       
+        </p>
+    </section>
+
+</main>

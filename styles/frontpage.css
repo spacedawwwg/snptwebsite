@@ -1,0 +1,138 @@
+.about-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: calc(100vh - 6rem);
+  margin-top: -0.5rem;
+}
+
+.about-left {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  background-color: var(--blue);
+  width: 100%;
+}
+
+.about-left img {
+  width: 100%;
+}
+
+.about-left-nested {
+  width: 600px;
+}
+
+.about-right {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  padding: 1rem 3rem;
+  line-height: 1.6em;
+  background-color: var(--background-reading);
+}
+
+/*  SLIDE FROM LEFT ===================== */
+/*  CAR ===================== */
+
+.slide-in-left {
+  -webkit-animation: slide-in-left 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94)
+    both;
+  animation: slide-in-left 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+@-webkit-keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-1000px);
+    transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-1000px);
+    transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/*  HILL CLIMB TEXT ===================== */
+
+.slide-in-left1 {
+  font-size: 2.5em;
+}
+
+.slide-in-left1 {
+  -webkit-animation: slide-in-left 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)
+    both;
+  animation: slide-in-left 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+@-webkit-keyframes slide-in-left1 {
+  0% {
+    -webkit-transform: translateX(-1000px);
+    transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes slide-in-left1 {
+  0% {
+    -webkit-transform: translateX(-1000px);
+    transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.credits {
+  color: #fff;
+  text-align: right;
+  font-size: 0.8em;
+}
+
+/* MEDIA QUERIES ==================== */
+
+@media only screen and (max-width: 1024px) {
+  .about-container {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .slide-in-left1 {
+    font-size: 2em;
+    margin-left: -1.8rem;
+  }
+
+  .credits {
+    color: #fff;
+    text-align: center;
+    font-size: 0.6em;
+  }
+
+  .about-left-nested {
+    width: 350px;
+    padding: 3rem;
+  }
+
+  .about-right {
+    min-height: 50vh;
+    padding: 1rem 1.5rem 5.5rem 1.5rem;
+  }
+}

@@ -1,0 +1,8 @@
+    {# Darkmode Js ================ #}
+    {% set js %}
+    {% include "js/darkmode.js" %}
+    {% endset %}
+    
+    <script>
+    {{ js | jsmin | safe }}
+    </script>  

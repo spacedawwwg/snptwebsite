@@ -1,0 +1,99 @@
+---
+layout: layouts/base.njk
+title: Code
+---
+
+{% set css %}
+{% include "styles/post.css" %}
+{% endset %}
+
+<style>
+    {{css | cssmin | safe}}
+</style>
+
+<main class="post-container">
+
+    <section class="post-main-content">
+
+        <img class="preview-image" src="{{ featuredImage | url }}" alt="{{ featuredImage }}"></img>
+
+        <h1 class="post-title">{{ title }}</h1>
+
+        <section class="post-info">
+
+            <span>
+                {% include "partials/author.njk" %}
+            </span>
+
+            <section class="post-flex-date">
+
+                <span class="post-date">
+                    <p>{{ date | readableDate }}</p>
+                </span>
+
+                <span class="post-read-time">
+                    <p class="words">{{ content | wordcount | readtime }}</p>
+                </span>                
+
+            </section>
+
+        </section>
+
+        {# SHARE BUTTONS LIVE CODE AND GITHUB #}
+        <section class="align-buttons-git-live">
+          <a href="{{ liveversion | url }}" target="_blank" rel="noreferrer noopener" class="button-live" alt="Live version of the website"><img src="/images/eye.svg" id="svg-in-button"
+              alt="Live Version" />
+            <p>Live Version</p>
+          </a>
+          <a href="{{ githubversion | url }}" target="_blank" rel="noreferrer noopener" class="button1" alt="Github code"><img src="/images/github.svg"
+              id="svg-in-button1" alt="View Code" />
+            <p>View Code</p>
+          </a>
+        </section>
+
+        <span class="content-mobile">{{ content | safe }}</span>
+
+        {% include "partials/facebook.njk" %}
+
+        {# PAGINATION #}
+        <section class="post-pagination">
+
+            <span class="post-pagination-next">
+                {% set nextPost = collections.code | getNextCollectionItem(page) %}
+                {% if nextPost %}
+                    <a href="{{ nextPost.url }}">⇦ Previous</a>
+                {% endif %}
+            </span>
+
+            <span class="post-pagination-previous">
+                {% set previousPost = collections.code | getPreviousCollectionItem(page) %}
+                {% if previousPost %}
+                    <a href="{{ previousPost.url }}">Next ⇨</a>
+                {% endif %}
+            </span>
+
+        </section>
+    </section>
+
+    {% include "partials/backtotop.njk" %}
+
+    {# PAGINATION SIDEBAR #}
+    <section class="post-sidebar">
+
+        <span class="post-sidebar-next">
+            {% set previousPost = collections.code | getPreviousCollectionItem(page) %}
+            {% if previousPost %}
+                <a href="{{ previousPost.url }}">Next ⇨</a>
+            {% endif %}
+        </span>
+
+        <span class="post-sidebar-previous">
+            {% set nextPost = collections.code | getNextCollectionItem(page) %}
+            {% if nextPost %}
+                <a href="{{ nextPost.url }}">⇦ Previous</a>
+            {% endif %}
+        </span>
+
+    </section>
+
+</main>

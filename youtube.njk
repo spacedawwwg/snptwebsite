@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+title: Apps
+image: /images/uploads/apps-list.jpg
+---
+
+<!-- Index css ==================== -->
+
+{% set css %}
+{% include "styles/appslist.css" %}
+{% endset %}
+
+<style>
+    {{css | cssmin | safe}}
+</style>
+
+<!-- CONTENT ==================== -->
+
+<h1>Choose the app you want to use</h1>
+
+<main class="indexContainer">
+
+    <section class="list-apps">
+        <section class="youtubegrabber">            
+                <a href="https://ytg.ornelasnarciso.com/" target="_blank" rel="noreferrer noopener" aria-label="Youtube Thumbnail Grabber"><img src="/images/apps/youtube-grabber.jpg" alt="Youtube Thumbnail Grabber"/><span class="btnMore">Use APP ⇨</span></a>                        
+        </section>
+    </section>
+
+</main>
+

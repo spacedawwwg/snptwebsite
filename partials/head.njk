@@ -1,0 +1,25 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    {% seo "" %}    
+    <link rel="shortcut icon" type="image/png" href="/images/uploads/logo.png"/> 
+     
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9RR9749BBV"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-9RR9749BBV');
+    </script> 
+    
+    {% set css %}
+    {% include "styles/globalStyle.css" %}
+    {% endset %}
+  
+    <style>
+        {{css | cssmin | safe}}
+    </style>   
+</head>

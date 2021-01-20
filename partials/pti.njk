@@ -1,0 +1,29 @@
+<section class="team">  
+
+    <div class="team-1 team-fit">
+
+        {%- if pti.profilepti -%}
+
+            {%- for item in pti.profilepti -%}
+
+                <div class="grid-element-team module" >                
+                    <img src="{{ item.featuredImage }}" alt="{{ featuredImage }}"></img>
+                    <h2>{{ item.title }}</h2>
+                </div>               
+
+            {%- endfor -%}
+
+        {%- endif -%}
+
+    </div>      
+
+</section>
+
+{# TEAM CSS ================ #}
+{% set css %}
+{% include "styles/team.css" %}
+{% endset %}
+
+<style>
+{{css | cssmin | safe}}
+</style> 

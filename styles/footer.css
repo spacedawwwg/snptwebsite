@@ -1,0 +1,29 @@
+footer {
+    position: absolute;
+    display: block;
+    height: 3rem;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
+    background-color: var(--navbar-background);
+}
+
+footer p {
+    font-size: 0.8em;
+    padding: 0.9rem 3rem 0 0;
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+@media (max-width: 800px) {
+    footer p {
+        text-align: center;
+        padding-left: 3rem;
+    }
+
+    .footer-pc {
+        display: none;
+    }
+}
