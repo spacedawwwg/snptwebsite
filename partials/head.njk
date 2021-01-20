@@ -5,15 +5,7 @@
     {% seo "" %}    
     <link rel="shortcut icon" type="image/png" href="/images/uploads/logo.png"/> 
      
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9RR9749BBV"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-9RR9749BBV');
-    </script> 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     
     {% set css %}
     {% include "styles/globalStyle.css" %}
