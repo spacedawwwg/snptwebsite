@@ -43,9 +43,9 @@ module.exports = function (cfg) {
   });
 
   cfg.addPlugin(pluginSEO, {
-    title: "Narciso Ornelas",
-    description: "Narciso Ornelas website",
-    url: "https://ornelasnarciso.com",
+    title: "HCR2 Clan Portugal",
+    description: "O site do Clan Portugal HCR2.",
+    url: "https://clanportugal.tk/",
     author: "Narciso Ornelas",
     // twitter: "Narciso Ornelas",
     //image: "cat.jpg"

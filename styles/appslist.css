@@ -15,7 +15,7 @@ h1 {
   cursor: pointer;
   box-shadow: var(--boxShadowApps);
   z-index: 1;
-  border-radius: 5px 5px 0 0;
+  border-radius: 500px;
 }
 
 .youtubegrabber:hover {
@@ -24,8 +24,8 @@ h1 {
 
 img {
   width: 100%;
-  height: 100%;
-  border-radius: 5px 5px 0 0;
+  height: 100%; 
+   border-radius: 500px;
 }
 
 .btnMore {
@@ -43,23 +43,22 @@ img {
 }
 
 @media only screen and (max-width: 1024px) {
+
   .btnMore {
     background-color: var(--blue);
     text-decoration: none;
     text-align: center;
     color: var(--textWhite);
     padding: 0.9rem 2rem 1rem 2rem;
-    margin: 0 0 0 0;
+    margin: 1rem 0 0 0;
     border-radius: 0;
     margin-bottom: 1rem;
     box-shadow: #011f46 1px 0 10px;
   }
 
   .btnMore {
-    display: block;
+    display: none;
+    border-radius: 10px;
   }
-
-  .youtubegrabber {
-    border-radius: 5px 5px 0 0;
-  }
+ 
 }
