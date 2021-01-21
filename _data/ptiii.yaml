@@ -1,101 +1,91 @@
 profileptiii:
-  - title: 1 PT Biclas
-    featuredImage: /images/uploads/humm.png
-  - featuredImage: /images/uploads/lider.png
-    title: 2 PT Antrax
-  - featuredImage: /images/uploads/lider.png
-    title: 3 SN Carlos
-  - title: 4 VittorioGPYT
-    featuredImage: /images/uploads/lider.png
-  - title: 5 Líder
-    featuredImage: /images/uploads/lider.png
-  - title: 6 PT Jogador
-    featuredImage: /images/uploads/02.png
-  - title: 7 Jogador
-    featuredImage: /images/uploads/02.png
-  - title: 8 SN Murdock
-    featuredImage: /images/uploads/humm.png
-  - title: 9 PT Jezandapus
-    featuredImage: /images/uploads/02.png
-  - title: 10 Jogador
+  - title: 1 Ladybug­®
+    featuredImage: /images/uploads/liderequipa.png
+  - featuredImage: /images/uploads/01.png
+    title: 2 Nivaldo 2
+  - featuredImage: /images/uploads/liderequipa.png
+    title: 3 Sousa
+  - title: 4 Gaspar
+    featuredImage: /images/uploads/liderequipa.png
+  - title: 5 Rokatanky
     featuredImage: /images/uploads/01.png
-  - title: 11 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 12 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 13 Jogador
+  - title: 6 PintoMaster
+    featuredImage: /images/uploads/liderequipa.png
+  - title: 7 Tomates
+    featuredImage: /images/uploads/02.png
+  - title: 8 Nox
+    featuredImage: /images/uploads/liderequipa.png
+  - title: 9 Zecadiabo
+    featuredImage: /images/uploads/02.png
+  - title: 10 Tiogui
     featuredImage: /images/uploads/01.png
-  - title: 14 PT Jezandapus
-    featuredImage: /images/uploads/humm.png
-  - title: 15 Jogador
-    featuredImage: /images/uploads/02.png
-  - title: 16 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 17 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 18 Jogador
+  - title: 11 XiKo
+    featuredImage: /images/uploads/liderequipa.png
+  - title: 12 Infinit0
+    featuredImage: /images/uploads/liderequipa.png
+  - title: 13 DSMB9604
     featuredImage: /images/uploads/01.png
-  - title: 19 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 20 Jogador
+  - title: 14 Luís
     featuredImage: /images/uploads/01.png
-  - title: 21 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 22 Líder
-    featuredImage: /images/uploads/lider.png
-  - title: 23 Jogador
+  - title: 15 Fumar­®
+    featuredImage: /images/uploads/02.png
+  - title: 16 martins
     featuredImage: /images/uploads/01.png
-  - title: 24 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 25 Jogador
+  - title: 17 ProDanii
+    featuredImage: /images/uploads/liderequipa.png
+  - title: 18 (arabe)
     featuredImage: /images/uploads/01.png
-  - title: 26 Jogador
+  - title: 19 Thecoin78
+    featuredImage: /images/uploads/01.png
+  - title: 20 44ron
+    featuredImage: /images/uploads/01.png
+  - title: 21 T.Gil
+    featuredImage: /images/uploads/01.png
+  - title: 22 Ricardo
+    featuredImage: /images/uploads/01.png
+  - title: 23 Rio!
+    featuredImage: /images/uploads/01.png
+  - title: 24 Ragnar
+    featuredImage: /images/uploads/01.png
+  - title: 25 Jota
+    featuredImage: /images/uploads/01.png
+  - title: 26 Maluco
     featuredImage: /images/uploads/02.png
-  - title: 27 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 28 Líder
-    featuredImage: /images/uploads/lider1.png
-  - title: 29 Jogador
+  - title: 27 Tiromeco21
+    featuredImage: /images/uploads/01.png
+  - title: 28 Biden
+    featuredImage: /images/uploads/01.png
+  - title: 29 Lpvox
     featuredImage: /images/uploads/02.png
-  - title: 30 Jogador
+  - title: 30 Rodr$go
     featuredImage: /images/uploads/02.png
-  - title: 31 Jogador
+  - title: 31 filintofelix
     featuredImage: /images/uploads/02.png
-  - title: 32 Jogador
+  - title: 32 Pedro­™
     featuredImage: /images/uploads/02.png
-  - title: 33 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 34 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 35 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 36 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 37 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 38 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 39 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 40 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 41 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 42 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 43 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 44 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 45 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 46 Jogador
-    featuredImage: /images/uploads/humm.png
-  - title: 47 Jogador
-    featuredImage: /images/uploads/lider.png
-  - title: 48 Jogador
-    featuredImage: /images/uploads/02.png
-  - title: 49 Jogador
-    featuredImage: /images/uploads/02.png
-  - title: 50 Jogador
+  - title: 33 guimm707
+    featuredImage: /images/uploads/01.png
+  - title: 34 vitor
+    featuredImage: /images/uploads/01.png
+  - title: 35 NeoRazor
+    featuredImage: /images/uploads/01.png
+  - title: 36 vagabundo
+    featuredImage: /images/uploads/01.png
+  - title: 37 Sabynovsky
+    featuredImage: /images/uploads/01.png
+  - title: 38 Diluc
+    featuredImage: /images/uploads/01.png
+  - title: 39 tiburcio_pre
+    featuredImage: /images/uploads/01.png
+  - title: 40 Chill Kid
+    featuredImage: /images/uploads/01.png
+  - title: 41 martim
+    featuredImage: /images/uploads/01.png
+  - title: 42 ThefristLino
+    featuredImage: /images/uploads/01.png
+  - title: 43 Caminhudo
+    featuredImage: /images/uploads/01.png
+  - title: 44 Simion
+    featuredImage: /images/uploads/01.png
+  - title: 45 pissa
     featuredImage: /images/uploads/01.png
