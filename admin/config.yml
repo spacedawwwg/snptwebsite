@@ -25,6 +25,7 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
+              - { label: "Bandeira", name: "flag", widget: "image" }
   - label: "Portugal I"
     name: "PTI"
     editor:
@@ -105,3 +106,4 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
+              - { label: "Bandeira", name: "flag", widget: "image" }

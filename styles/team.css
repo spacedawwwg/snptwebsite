@@ -7,11 +7,19 @@
   display: grid;
   align-items: center;
   justify-items: center;
-  padding-bottom: 3rem;
+  padding-bottom: 7rem;
+  padding-top: 1rem;
   background-color: var(--background-reading);
 }
 
-.team-1 img {
+.flag {
+  margin: auto;
+  width: 50%;
+  width: 30px;
+  margin-top: -2.8rem;
+}
+
+.team-1 .featuredImage {
   border-radius: 50%;
   max-width: 180px;
   max-height: 180px;
@@ -24,39 +32,39 @@
 
 /* This fixes the first and second child background color */
 
-div:nth-child(1) img,
-div:nth-child(2) img,
-div:nth-child(3) img {
+div:nth-child(1) .featuredImage,
+div:nth-child(2) .featuredImage,
+div:nth-child(3) .featuredImage {
   background-color: #e8b03f;
   padding: 5px;
 }
 
-div:nth-child(n + 11) img {
+div:nth-child(n + 11) .featuredImage {
   background-color: var(--background-reading);
   color: var(--text-color);
 }
 
-div:nth-child(4) img,
-div:nth-child(5) img,
-div:nth-child(6) img,
-div:nth-child(7) img,
-div:nth-child(8) img,
-div:nth-child(9) img,
-div:nth-child(10) img {
+div:nth-child(4) .featuredImage,
+div:nth-child(5) .featuredImage,
+div:nth-child(6) .featuredImage,
+div:nth-child(7) .featuredImage,
+div:nth-child(8) .featuredImage,
+div:nth-child(9) .featuredImage,
+div:nth-child(10) .featuredImage {
   background-color: #266e26;
   color: #fafafa;
   padding: 5px;
 }
 
-div:nth-last-child(2) img,
-div:nth-last-child(3) img {
+div:nth-last-child(2) .featuredImage,
+div:nth-last-child(3) .featuredImage {
   background-color: #b22222;
   padding: 5px;
 }
 
 /* This fixes the last child background color */
 
-.team-1 div:last-child img {
+.team-1 div:last-child .featuredImage {
   background-color: #b22222;
   padding: 5px;
 }
@@ -72,7 +80,7 @@ div:nth-last-child(3) img {
 .team-1 h2 {
   text-align: center;
   margin-top: 1rem;
-  font-size: 1em;
+  font-size: 0.85em;
 }
 
 .team-fit {
