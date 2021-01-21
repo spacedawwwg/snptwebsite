@@ -3,18 +3,18 @@ profile:
     featuredImage: /images/uploads/01.png
   - featuredImage: /images/uploads/01.png
     title: 2. PT Blaze
-  - featuredImage: /images/uploads/02.png
+  - featuredImage: /images/uploads/antrax.png
     title: 3. PT Antrax
   - title: 4. VittorioGPYT
     featuredImage: /images/uploads/01.png
   - title: 5. Sn Murdock
     featuredImage: /images/uploads/01.png
   - title: 6. PT Mike
-    featuredImage: /images/uploads/02.png
+    featuredImage: /images/uploads/Myke.png
   - title: 7. PT Reforma
-    featuredImage: /images/uploads/reforma.png
+    featuredImage: /images/uploads/slash.png
   - title: 8. PT RR
-    featuredImage: /images/uploads/01.png
+    featuredImage: /images/uploads/rr.png
   - title: 9. PT Kazaka
     featuredImage: /images/uploads/02.png
   - title: 10. SN MLOPES
@@ -80,7 +80,7 @@ profile:
   - title: 40. SN Rodrigo
     featuredImage: /images/uploads/01.png
   - title: 41. PT Biclas
-    featuredImage: /images/uploads/webmaster.png
+    featuredImage: /images/uploads/WebMaster.png
   - title: 42. SN Diego
     featuredImage: /images/uploads/01.png
   - title: 43. PT SimaoSpeed
