@@ -46,6 +46,7 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
+              - { label: "Bandeira", name: "flag", widget: "image" }
   - label: "Portugal II"
     name: "PTII"
     editor:
@@ -66,6 +67,7 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
+              - { label: "Bandeira", name: "flag", widget: "image" }
   - label: "Portugal III"
     name: "PTIII"
     editor:
@@ -86,6 +88,7 @@ collections:
                   name: "featuredImage",
                   widget: "image",
                 }
+              - { label: "Bandeira", name: "flag", widget: "image" }
   - label: "Academia"
     name: "academia"
     editor:
