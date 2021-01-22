@@ -29,7 +29,7 @@ image: /images/uploads/facebook-default.jpg
                 <div class="grid-element-team module" >      
                     <script src="https://apis.google.com/js/platform.js"></script>          
                    <a href="{{ item.link }}" target="_blank" rel="noreferrer noopener" aria-label="{{ item.ariaLabel }}"><img class="featuredImage" src="{{ item.youtubeImage }}" alt="{{ featuredImage }}"></img></a>                   
-                    <div class="g-ytsubscribe subBackground" data-channelid="{{ item.YouTubeUsername }}" data-layout="full" data-theme="dark" data-count="default"></div>    
+                    <div class="g-ytsubscribe" data-channelid="{{ item.YouTubeUsername }}" data-layout="full" data-theme="dark" data-count="default"></div>    
                 </div>               
 
             {%- endfor -%}
