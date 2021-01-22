@@ -1,13 +1,12 @@
 h1 {
   text-align: center;
-  background-color: #18191a;
-  color: #e4e6eb;
+  background-color: var(--background);
 }
 
 .team {
   grid-area: team;
-  margin-top: -0.5rem; 
-  background-color: #18191a;
+  margin-top: -0.5rem;
+  background-color: var(--background);
 }
 
 .team-1 {
@@ -16,33 +15,24 @@ h1 {
   justify-items: center;
   padding-bottom: 7rem;
   padding-top: 1rem;
-  background-color: #18191a;
+  background-color: var(--background);
 }
 
 .team-1 .featuredImage {
   border-radius: 5px;
-  max-width: 300px;  
+  max-width: 300px;
   margin-bottom: 1rem;
   cursor: pointer;
 }
 
 .team-1 .featuredImage:hover {
-box-shadow: var(--boxShadowCards); 
+  box-shadow: var(--boxShadowCards);
 }
 
 .team-fit {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  background-color: #18191a;
 }
 
 .grid-element-team {
   padding: 20px;
-}
-
-.global-content {
- background-color: #18191a;
-}
-
-body {
-  background-color: #18191a;
 }
