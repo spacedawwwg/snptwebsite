@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  background-color: var(--background);
+}
+
+.subBackground {
+  color: red;
+}
+
+.team {
+  grid-area: team;
+  margin-top: -0.5rem; 
+}
+
+.team-1 {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 7rem;
+  padding-top: 1rem;
+  background-color: var(--background);
+}
+
+.team-1 .featuredImage {
+  border-radius: 5px;
+  max-width: 300px;  
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.team-1 .featuredImage:hover {
+box-shadow: var(--boxShadowCards); 
+}
+
+.team-fit {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-element-team {
+  padding: 20px;
+}
+
+
+@media screen and (max-width: 1440px) {
+  .team-fit {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+  .team-1 h2 {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.8em;
+  }
+}
+
+

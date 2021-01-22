@@ -7,7 +7,7 @@ image: /images/uploads/facebook-default.jpg
 <!-- Index css ==================== -->
 
 {% set css %}
-{% include "styles/appslist.css" %}
+{% include "styles/youtube.css" %}
 {% endset %}
 
 <style>
@@ -18,13 +18,24 @@ image: /images/uploads/facebook-default.jpg
 
 <h1>Subscreve e segue os canais dos nossos Youtubers</h1>
 
-<main class="indexContainer">
+<main class="team">  
 
-    <section class="list-apps">
-        <section class="youtubegrabber">            
-                <a href="https://www.youtube.com/channel/UCivk-ma9dv0VbhrBIHok2PQ" target="_blank" rel="noreferrer noopener" aria-label="Youtube"><img src="/images/uploads/logo-white.png" alt="Youtube"/><span class="btnMore">Biclas Gaming ⇨</span></a>                        
-        </section>
-    </section>
+    <div class="team-1 team-fit">
+
+        {%- if youtube.youtubers -%}
+
+            {%- for item in youtube.youtubers -%}
+
+                <div class="grid-element-team module" >      
+                    <script src="https://apis.google.com/js/platform.js"></script>          
+                   <a href="{{ item.link }}" target="_blank" rel="noreferrer noopener" aria-label="{{ item.ariaLabel }}"><img class="featuredImage" src="{{ item.youtubeImage }}" alt="{{ featuredImage }}"></img></a>                   
+                    <div class="g-ytsubscribe subBackground" data-channelid="{{ item.YouTubeUsername }}" data-layout="full" data-theme="dark" data-count="default"></div>    
+                </div>               
+
+            {%- endfor -%}
+
+        {%- endif -%}
+
+    </div>      
 
 </main>
-
