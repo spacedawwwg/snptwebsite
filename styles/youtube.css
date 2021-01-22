@@ -1,6 +1,12 @@
-h1 {
+.title h1 {
   text-align: center;
   background-color: var(--background);
+  font-size: clamp(
+    1.5em,
+    3vw,
+    2.1em
+  ); /* best thing ever :D (small screens, medium screens, big screens )*/
+  padding: 0.5rem;
 }
 
 .team {
