@@ -44,7 +44,7 @@ module.exports = function (cfg) {
 
   cfg.addPlugin(pluginSEO, {
     title: "HCR2 Clan Portugal",
-    description: "O site do Clan Portugal HCR2.",
+    description: "O site oficial do Clan Portugal HCR2. Junta-te a nós!",
     url: "https://clanportugal.tk/",
     author: "Narciso Ornelas",
     // twitter: "Narciso Ornelas",
