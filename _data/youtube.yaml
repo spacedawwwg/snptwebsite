@@ -7,3 +7,19 @@ youtubers:
     YouTubeUsername: UCMjJ_KJDDemWq8kg6D6uR3Q
     link: https://www.youtube.com/c/LelouchYT
     ariaLabel: Lelouch YT
+  - youtubeImage: /images/uploads/YoutubersPosterCarlos.jpg
+    YouTubeUsername: UCxZyi1KvyJbe2NypEgcjc_Q
+    link: https://www.youtube.com/channel/UCxZyi1KvyJbe2NypEgcjc_Q
+    ariaLabel: Carlos HCR2!
+  - youtubeImage: /images/uploads/YoutubersPosterRaio.jpg
+    YouTubeUsername: UCF4lFnLFczJmJc01ZFFJy-w
+    link: https://www.youtube.com/channel/UCF4lFnLFczJmJc01ZFFJy-w
+    ariaLabel: Ricardo Raio
+  - youtubeImage: /images/uploads/YoutubersPosterAntrax.jpg
+    YouTubeUsername: UCRXEh6G5JNLBqrOMu_bk90Q
+    link: https://www.youtube.com/channel/UCRXEh6G5JNLBqrOMu_bk90Q
+    ariaLabel: Filipe Antrax
+  - youtubeImage: /images/uploads/YoutubersPosterRR.jpg
+    YouTubeUsername: UCpHyfvgXfBgrS3OiHtjRBMA
+    link: https://www.youtube.com/channel/UCpHyfvgXfBgrS3OiHtjRBMA
+    ariaLabel: RR
