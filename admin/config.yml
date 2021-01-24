@@ -20,12 +20,6 @@ collections:
             collapsed: true
             fields:
               - { label: "Title", name: "title", widget: "string" }
-              - {
-                  label: "Featured Image",
-                  name: "featuredImage",
-                  widget: "image",
-                }
-              - { label: "Bandeira", name: "flag", widget: "image" }
   - label: "Portugal I"
     name: "PTI"
     editor:
