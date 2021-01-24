@@ -42,15 +42,6 @@ module.exports = function (cfg) {
     cacheFile: ".lazyimages.json", // don't cache results to a file
   });
 
-  cfg.addPlugin(pluginSEO, {
-    title: "HCR2 Clan Portugal",
-    description: "O site oficial do Clan Portugal HCR2. Junta-te a nós!",
-    url: "https://clanportugal.tk/",
-    author: "Narciso Ornelas",
-    // twitter: "Narciso Ornelas",
-    //image: "cat.jpg"
-  });
-
   cfg.setBrowserSyncConfig({
     // scripts in body conflict with Turbolinks
     snippetOptions: {
@@ -61,6 +52,15 @@ module.exports = function (cfg) {
         },
       },
     },
+  });
+
+  cfg.addPlugin(pluginSEO, {
+    title: "HCR2 Clan Portugal",
+    description: "O site oficial do Clan Portugal HCR2. Junta-te a nós!",
+    url: "https://clanportugal.tk/",
+    author: "Narciso Ornelas",
+    // twitter: "Narciso Ornelas",
+    //image: "cat.jpg"
   });
 
   // javascript minify
