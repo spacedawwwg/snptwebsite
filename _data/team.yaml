@@ -2,144 +2,240 @@ profile:
   - title: 1. SN Carlos
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: https://www.youtube.com/channel/UCxZyi1KvyJbe2NypEgcjc_Q
+    youtubelogo: /images/uploads/youtubeLogoSVG.svg
   - featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
     title: 2. PT Blaze
   - featuredImage: /images/uploads/antrax1.png
     flag: /images/uploads/FlagPortugal.jpg
     title: 3. PT Antrax
+    linkyoutube: https://www.youtube.com/channel/UCRXEh6G5JNLBqrOMu_bk90Q
+    youtubelogo: /images/uploads/youtubeLogoSVG.svg
   - title: 4. VittorioGPYT
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 5. Sn Murdock
     featuredImage: /images/uploads/snMurdock.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 6. PT Mike
     featuredImage: /images/uploads/Myke.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 7. PT Reforma
     featuredImage: /images/uploads/slash.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 8. PT RR
     featuredImage: /images/uploads/rr.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: https://www.youtube.com/channel/UCpHyfvgXfBgrS3OiHtjRBMA
+    youtubelogo: /images/uploads/youtubeLogoSVG.svg
   - title: 9. PT Kazaka
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 10. SN MLOPES
     featuredImage: /images/uploads/snlopes.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 11. PT Maximus®
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 12. SN ALLAN
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 13. SN TELL
     featuredImage: /images/uploads/snTell.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 14. PT Mykarr
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 15. SN Guijona
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 16. SN CHINA
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 17. PT Titana
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 18. SN Klauck
     featuredImage: /images/uploads/snKlauckNew.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 19. SN Irenno
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 20. PT M@risa
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 21. SN ACQUA
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 22. SN AS
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 23. SN Ander
     featuredImage: /images/uploads/snAnder.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 24. SN Betinho
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 25. SN Marcelo
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 26. SN Biil
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 27. Samuka
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 28. PT Jezandapuss
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 29. PT N8N
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 30. SN LukBagart
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 31. PT FT1
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 32. Kauan(WG)
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 33. SN Sieg
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 34. PT BM®
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 35. SN Júlio
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 36. HAN SOLO
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 37. PT Zeto
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 38. PT Pedro
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 39. PT MrWeed
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 40. SN Rodrigo
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 41. PT Biclas
     featuredImage: /images/uploads/web-master.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: https://www.youtube.com/channel/UCivk-ma9dv0VbhrBIHok2PQ
+    youtubelogo: /images/uploads/youtubeLogoSVG.svg
   - title: 42. SN Diego
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 43. PT SimaoSpeed
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 44. RS kingito
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 45. PT Papuça
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 46. SN A.S.A.
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 47. PT Pat1tuh
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 48. mivacotwitch
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: #
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==

@@ -1,7 +1,16 @@
-.team {
+.team { 
   grid-area: team;
   margin-top: -0.5rem;
+  margin-right: 1rem;
+  z-index: 1; 
 }
+
+ .youtubeIcon {   
+    position: relative;  
+    margin: -2.2rem 0 0 0;   
+    float: right;   
+    width: auto;
+  }
 
 .team-1 {
   display: grid;
@@ -13,8 +22,7 @@
 }
 
 .flag {
-  margin: auto;
-  width: 50%;
+  margin: auto;   
   width: 30px;
   margin-top: -2.8rem;
 }
@@ -23,6 +31,7 @@
   border-radius: 50%;
   max-width: 180px;
   max-height: 180px;
+  z-index: 1;
 }
 
 .team-1:nth-child(2) {
@@ -111,4 +120,9 @@ div:nth-last-child(3) .featuredImage {
     margin-top: 1rem;
     font-size: 0.65em;
   }
+
+  .flag {
+    width: 25px;
+  }
+
 }
