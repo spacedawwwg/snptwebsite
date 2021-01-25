@@ -107,6 +107,13 @@
   font-size: 0.8em;
 }
 
+@media only screen and (max-width: 1080px) {
+  .about-left-nested {
+    width: 450px;
+    padding: 3rem;
+  }
+}
+
 /* MEDIA QUERIES ==================== */
 
 @media only screen and (max-width: 1024px) {
