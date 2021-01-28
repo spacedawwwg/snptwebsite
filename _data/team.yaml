@@ -215,10 +215,10 @@ profile:
     linkyoutube: #
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 44. RS kingito
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+    featuredImage: /images/uploads/king.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: https://www.youtube.com/channel/UCita2FyOl-Ulb4ucyc3g_Kg
+    youtubelogo: /images/uploads/youtubeLogoSVG.svg
   - title: 45. PT Papuça
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg

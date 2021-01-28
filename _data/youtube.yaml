@@ -23,6 +23,10 @@ youtubers:
     YouTubeUsername: UCpHyfvgXfBgrS3OiHtjRBMA
     link: https://www.youtube.com/channel/UCpHyfvgXfBgrS3OiHtjRBMA
     ariaLabel: RR
+  - youtubeImage: /images/uploads/YoutubersPosterKing.jpg
+    YouTubeUsername: UCita2FyOl-Ulb4ucyc3g_Kg
+    link: https://www.youtube.com/channel/UCita2FyOl-Ulb4ucyc3g_Kg
+    ariaLabel: King
   - youtubeImage: /images/uploads/YoutubersPosterFreddyFinal.jpg
     YouTubeUsername: UC_dURfZJtmleJdCxUhDsA6Q
     link: https://www.youtube.com/channel/UC_dURfZJtmleJdCxUhDsA6Q
