@@ -55,9 +55,9 @@ module.exports = function (cfg) {
   });
 
   cfg.addPlugin(pluginSEO, {
-    title: "HCR2 Clan Portugal",
-    description: "O site oficial do Clan Portugal HCR2. Junta-te a nós!",
-    url: "https://clanportugal.tk/",
+    title: "HCR Clan Portugal",
+    description: "O site oficial do Clan Portugal HCR. Junta-te a nós!",
+    url: "https://www.hcrportugal.tk/",
     author: "Narciso Ornelas",
     // twitter: "Narciso Ornelas",
     //image: "cat.jpg"
