@@ -1,246 +1,215 @@
 profilepti:
-  - title: 1. Casanova
+  - featuredImage: /images/uploads/taranto.png
+    flag: /images/uploads/FlagPortugal.jpg
+    title: 1. Taranto
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 2. Casanova
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 3. AlcobiaV
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    title: 2. A. Santos
-    linkyoutube: #
+    title: 4. A. Santos
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - featuredImage: /images/uploads/taranto.png
-    flag: /images/uploads/FlagPortugal.jpg
-    title: 3. Taranto
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 4. SlashJr™
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 5. AlcobiaV
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 6. RS|M4ster
+  - title: 5. Malico
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 7. Mykarr2
+  - title: 6. RR
+  - title: 7. Bruno
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 8. Kamikaze
+  - title: 9. Papuça
+  - title: 10. Hugo
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 8. BMW
+  - title: 11. SlashJr™
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 9. Malico
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 10. ZaMaNoO
+  - title: 12. TZ
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 11. Dvalin
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 12. Joselito
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 13. Bruno
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 14. Rafa­­™$
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 15. Hugo
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 16. PR LelouchYT
-    featuredImage: /images/uploads/lelouch.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: https://www.youtube.com/c/LelouchYT
-    youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 17. Jorge
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 18. Shisui
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 19. Freddy
+  - title: 13. Freddy
     featuredImage: /images/uploads/profileFreddy.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: https://www.youtube.com/channel/UC_dURfZJtmleJdCxUhDsA6Q
     youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 20. Canada
+  - title: 14. Rafa­­™$
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 21. nugget
+  - title: 15. SB|Top(4)
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 22. TZ
+  - title: 16. Dvalin
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 23. SRT
+  - title: 17. Joselito
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 24. ric123
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 25. Sargento HS
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 26. Majo
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 27. FrankW
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 28. Farinhol
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 29. Srbebado
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 30. Raio®
+  - title: 18. Raio®
     featuredImage: /images/uploads/raio.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: https://www.youtube.com/channel/UCF4lFnLFczJmJc01ZFFJy-w
     youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 31. Ricardo
+  - title: 19. Jorge
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 32. pmGoPro
+  - title: 20. Mykarr2
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 33. Kharthoum
+  - title: 21. Majo
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 22. Srbebado
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 23. Kharthoum
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 34. DaniDias
+  - title: 24. ZaMaNoO
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 35. 420
+  - title: 25. DaniDias
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 36. JoniOne
+  - title: 26. Farinhol
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 37. Saraivix
+  - title: 27. Saraivix
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 38. JDias
+  - title: 28. Ricardo
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 39. Edgar
+  - title: 29. Shisui
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 40. RDU
+  - title: 30. Sargento HS
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 41. Peter Pan
+  - title: 31. Pull
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 32. ric123
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 33. Bob (W33D)
+  - title: 34. JDias
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 35. FrankW
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 36. Peter Pan
     featuredImage: /images/uploads/liderequipa.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 42. Lourinhã
+  - title: 37. Lourinhã
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 43. Bob (W33D)
+  - title: 38. Viet24 (André)
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 44. Daniel
+  - title: 39. Daniel
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 45. Pull
+  - title: 40. Edgar
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 46. Marcio_AZR
+  - title: 41. Marcio_AZR
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 47. Viet24 (André)
+  - title: 42. pmGoPro
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 43. RDU
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 48. SB|Top(4)
+  - title: 44. PR LelouchYT
+    featuredImage: /images/uploads/lelouch.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: https://www.youtube.com/c/LelouchYT
+    youtubelogo: /images/uploads/youtubeLogoSVG.svg
+  - title: 45. JoniOne
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 49. !GnI$
+  - title: 46. !GnI$
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: #
+    linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
