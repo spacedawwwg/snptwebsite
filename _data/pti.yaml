@@ -25,13 +25,25 @@ profilepti:
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 6. RR
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 7. Bruno
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 8. Kamikaze
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 9. Papuça
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 10. Hugo
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/FlagPortugal.jpg
@@ -148,6 +160,10 @@ profilepti:
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 33. Bob (W33D)
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 34. JDias
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
