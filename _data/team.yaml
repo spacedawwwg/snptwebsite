@@ -14,24 +14,24 @@ profile:
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-    title: 4. PT Blaze
   - featuredImage: /images/uploads/antrax1.png
     flag: /images/uploads/FlagPortugal.jpg
-    title: 5. PT Antrax
+    title: 4. PT Antrax
     linkyoutube: https://www.youtube.com/channel/UCRXEh6G5JNLBqrOMu_bk90Q
     youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 6. SN Diego
+  - title: 5. SN Diego
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 7. RS M4ster
-    featuredImage: /images/uploads/01.png
+  - featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+    title: 6. PT Blaze
+  - title: 10. SN A.S.A.
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 8. PT Kazaka
@@ -44,54 +44,54 @@ profile:
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 10. SN A.S.A.
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 11. PT Jezandapuss
+  - title: 10. RS M4ster
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 12. SN Murdock
+  - title: 11. SN CHINA
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 12. PT Jezandapuss
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 13. SN Murdock
     featuredImage: /images/uploads/snMurdock.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 13. SN CHINA
+  - title: 14. SN ALLAN
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 14. SN Ander
+  - title: 15. SN Ander
     featuredImage: /images/uploads/snAnder.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 15. SN ALLAN
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 16. SN TELL
-    featuredImage: /images/uploads/snTell.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 17. PT RR
+  - title: 16. PT RR
     featuredImage: /images/uploads/rr.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: https://www.youtube.com/channel/UCpHyfvgXfBgrS3OiHtjRBMA
     youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 18. SN Betinho
-    featuredImage: /images/uploads/01.png
+  - title: 17. SN TELL
+    featuredImage: /images/uploads/snTell.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 19. PT Maximus®
+  - title: 18. PT Maximus®
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 19. SN Betinho
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   - title: 20. SN AS
@@ -99,62 +99,62 @@ profile:
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 21. PT Titana
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 22. SN Rodrigo
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 23. SN Biil
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 24. SN Guijona
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 25. SN Irenno
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 26. SN Samuka
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 27. PT Reforma
+  - title: 21. PT Reforma
     featuredImage: /images/uploads/slash.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 28. PT FT1
-    featuredImage: /images/uploads/02.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 29. SN KlaucK
+  - title: 22. SN KlaucK
     featuredImage: /images/uploads/snKlauckNew.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 30. PT BM®
+  - title: 23. SN Rodrigo
     featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
+    flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 31. Kauan(WG)
+  - title: 24. SN Samuka
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 25. PT Noilas
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 26. SN Guijona
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 32. PT M@risa
+  - title: 27. SN Irenno
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 28. PT BM®
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 29. PT FT1
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 30. Kauan(WG)
+    featuredImage: /images/uploads/02.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 31. PT M@risa
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 32. PT Titana
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
@@ -169,18 +169,18 @@ profile:
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 35. SN Sieg
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 36. SN LukBagart
+  - title: 35. SN LukBagart
     featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 37. PT Noilas
+  - title: 36. SN Sieg
     featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 37. SN Biil
+    featuredImage: /images/uploads/02.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
@@ -189,47 +189,47 @@ profile:
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: https://www.youtube.com/channel/UCivk-ma9dv0VbhrBIHok2PQ
     youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 39. RS kingito
+  - title: 39. PT Zeto
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 40. SN Marcelo
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/flagbrazil.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 41. PT SimaoSpeed
+    featuredImage: /images/uploads/01.png
+    flag: /images/uploads/FlagPortugal.jpg
+    linkyoutube: null
+    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+  - title: 42. RS kingito
     featuredImage: /images/uploads/king.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: https://www.youtube.com/channel/UCita2FyOl-Ulb4ucyc3g_Kg
     youtubelogo: /images/uploads/youtubeLogoSVG.svg
-  - title: 40. PT Zeto
+  - title: 43. PT Mykarr
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 41. SN Marcelo
+  - title: 44. HAN SOLO
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 42. PT Mykarr
+  - title: 45. SN WOLF
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 43. PT SimaoSpeed
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 44. SN ACQUA
+  - title: 46. SN ACQUA
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/flagbrazil.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 45. HAN SOLO
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/flagbrazil.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 46. SN WOLF
-    featuredImage: /images/uploads/01.png
-    flag: /images/uploads/FlagPortugal.jpg
-    linkyoutube: null
-    youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 47. Rian Felipe
+  - title: 47. SN Benicio
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
@@ -239,12 +239,12 @@ profile:
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 49. SN Gardi
+  - title: 49. Rian Felipe
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
     youtubelogo: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  - title: 50. SN Benicio
+  - title: 50. SN Gardi
     featuredImage: /images/uploads/01.png
     flag: /images/uploads/FlagPortugal.jpg
     linkyoutube: null
