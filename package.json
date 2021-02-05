@@ -26,6 +26,7 @@
   "dependencies": {
     "@11ty/eleventy-img": "^0.3.0",
     "@quasibit/eleventy-plugin-sitemap": "^2.0.3",
+    "axios": "^0.21.1",
     "clean-css": "^4.2.3",
     "eleventy-plugin-blog-tools": "^0.3.1",
     "eleventy-plugin-seo": "^0.5.1",
