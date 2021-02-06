@@ -9,6 +9,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss"); //RSS feed
 const pluginSEO = require("eleventy-plugin-seo"); // SEO - also provides social preview images
 const blogTools = require("eleventy-plugin-blog-tools"); // youtube and others
 const yaml = require("js-yaml"); // use yaml files
+// const turbolinks = require("turbolinks"); //turbolinks
 
 const md = require("markdown-it")({
   html: false,
@@ -25,6 +26,7 @@ module.exports = function (cfg) {
   cfg.addPassthroughCopy("admin");
   cfg.addFilter("readtime", require("./lib/filters/readtime"));
   cfg.addPlugin(pluginRss); //RSS feed
+  // cfg.addPlugin(turbolinks); //turbolinks
   cfg.addPlugin(syntaxHighlight); // paste code :D
   cfg.addPlugin(blogTools); // youtube and others
   cfg.addDataExtension("yaml", (contents) => yaml.safeLoad(contents)); // use yaml files
